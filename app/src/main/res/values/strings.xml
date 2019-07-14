@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SimpleDataBase</string>
+    <string name="Name">Name :</string>
+    <string name="age">Age :</string>
+    <string name="job">Job :</string>
+    <string name="Gender">Gender :</string>
+    <string name="enter_Name">enter Name here</string>
+    <string name="enter_age">Enter Age here</string>
+    <string name="enter_job">Enter Job here</string>
+    <string name="enter_gender">enter gender here</string>
+    <string name="Save">Save</string>
+    <string name="showdata">Show data</string>
+    <string name="NoData">There is no Data right now</string>
+</resources>
